@@ -1,0 +1,4 @@
+apscheduler
+requests
+beautifulsoup4
+discord.py
